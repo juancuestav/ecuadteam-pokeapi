@@ -1,0 +1,9 @@
+{
+    "conexion":{
+        "server" : "localhost",
+        "user" : "id17826872_root",
+        "password" : "Reserv@2_Slitaz",
+        "database" : "id17826872_pokeapi",
+        "port": "3306"
+    }
+}
