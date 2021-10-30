@@ -1,0 +1,18 @@
+.form-title {
+  color: #4A00E0;
+}
+
+.form-subtitle {
+  color: #151515;
+}
+
+@media all and (max-width: 800px) {
+  .card {
+      width: 60%;
+  }
+}
+@media all and (max-width: 452px) {
+  .card {
+      width: 100%;
+  }
+}
