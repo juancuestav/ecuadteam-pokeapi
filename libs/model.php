@@ -5,8 +5,8 @@
     private $conexion;
 
     function __construct() {
-      $this->db = new Database();
-      $this->conexion = $this->db->conexion;
+      /* $this->db = new Database();
+      $this->conexion = $this->db->conexion; */
     }
 
     private function convertirUTF8($array){
